@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164211546185",
+    "project_id": "local-notification-token",
+    "storage_bucket": "local-notification-token.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164211546185:android:059744a12671b190c74798",
+        "android_client_info": {
+          "package_name": "com.kishoreNoti.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Ks6gBr8nc8XNXlcmIMFOcgkmFzY4JTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
