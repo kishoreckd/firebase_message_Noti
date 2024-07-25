@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002398347351",
+    "project_id": "messaing-notification",
+    "storage_bucket": "messaing-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002398347351:android:fc2a8e86496fff13517312",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKLjS_Nqq74Y0Qy41aD-hIJmivS-BBaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002398347351:android:a4eb2cd1e2bfa162517312",
+        "android_client_info": {
+          "package_name": "com.notification_messaging.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKLjS_Nqq74Y0Qy41aD-hIJmivS-BBaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
